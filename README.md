@@ -20,6 +20,8 @@ here the file name that i used was "genome1.fna"
 
 -Biostrings library
 
+##CODE
+
 library(Biostrings)
 sequence<-readDNAStringSet('genome1.fna')
 sequence
